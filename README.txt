@@ -1,3 +1,13 @@
+Example Script.py contains one basic example to get output as list
+
+
+
+
+
+
+
+
+
 CMU ARK Twitter Part-of-Speech Tagger v0.3.2
 http://www.ark.cs.cmu.edu/TweetNLP/
 
